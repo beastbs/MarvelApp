@@ -5,13 +5,13 @@ Marvel React App
 Follow link to try it - https://heroku-marvel-app.herokuapp.com
 
 What do I use:
-	* React
-	* Marvel API
-	* Routing
-	* Boundary
-	* Hooks
-	* Fetch
-	* Life cycles
+   * React
+   * Marvel API
+   * Routing
+   * Boundary
+   * Hooks
+   * Fetch
+   * Life cycles
 
 > Screenshots:
 
