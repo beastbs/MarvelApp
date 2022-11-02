@@ -1,6 +1,10 @@
 # Marvel API
 
-Marvel project React App
+Marvel React App
+
+Follow this link to open app: 
+
+[Marvel-app]: https://heroku-marvel-app.herokuapp.com
 
 > Screenshots:
 
