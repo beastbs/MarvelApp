@@ -65,14 +65,14 @@ const View = ({ char }) => {
             <a
               href={homepage}
               className="button button__main"
-              target={"_blank"}
+              target={"_blank"} rel="noreferrer"
             >
               <div className="inner">homepage</div>
             </a>
             <a
               href={wiki}
               className="button button__secondary"
-              target={"_blank"}
+              target={"_blank"} rel="noreferrer"
             >
               <div className="inner">Wiki</div>
             </a>
