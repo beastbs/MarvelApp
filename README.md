@@ -2,9 +2,7 @@
 
 Marvel React App
 
-Follow this link to open app: 
-
-[Marvel-app]: https://heroku-marvel-app.herokuapp.com
+Follow link to try it - https://heroku-marvel-app.herokuapp.com
 
 > Screenshots:
 
